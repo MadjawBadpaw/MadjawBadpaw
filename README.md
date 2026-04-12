@@ -76,9 +76,10 @@ Completed
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-3AADCD?style=flat)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-0d1421?style=flat&color=38bdf8)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-0d1421?style=flat&color=38bdf8)
 
 **Networking & Protocols**
 
@@ -86,7 +87,6 @@ Completed
 ![iptables](https://img.shields.io/badge/iptables-0d1421?style=flat&color=38bdf8)
 ![VPN](https://img.shields.io/badge/VPN-0d1421?style=flat&color=38bdf8)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat&logo=torproject&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-0d1421?style=flat&color=38bdf8)
 
 **Programming & AI**
 

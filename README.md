@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1421,50:38bdf8,100:0d1421&height=200&section=header&text=Yugam&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20%7C%20Networks&descAlignY=58&descSize=18&descColor=38bdf8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1421,50:38bdf8,100:0d1421&height=200&section=header&text=Yugam Thakur&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20%7C%20Networks&descAlignY=58&descSize=18&descColor=38bdf8" width="100%"/>
 
 </div>
 
@@ -42,10 +42,10 @@ Status   : Building. Breaking. Learning.
 
 | Project | Description | Stack |
 |---|---|---|
-| [🔒 WireGuard Secure VPN Lab](https://github.com/MadjawBadpaw) | Implemented secure remote access VPN with dual-interface Ubuntu gateway, NAT, IP forwarding, and full tunnel setup | WireGuard · Linux · iptables · VMware |
-| [🍯 Honeypot + SIEM (Wazuh + Cowrie)](https://github.com/MadjawBadpaw) | Deployed Cowrie SSH honeypot on Kali Purple, forwarded logs to Wazuh SIEM on AWS EC2, simulated SSH brute-force and monitored alerts | Wazuh · Cowrie · AWS EC2 · SIEM |
-| [🧅 Tor Middle Relay (Indian ISP)](https://github.com/MadjawBadpaw/Tor-middle-relay-on-Indian-ISP) | Ran a Tor middle relay on Jio Fiber, diagnosed IPv4 vs IPv6 reachability, documented ISP-level port forwarding limitations | Tor · Linux · IPv6 · Networking |
-
+| [🔒 WireGuard Secure VPN Lab] | Implemented secure remote access VPN with dual-interface Ubuntu gateway, NAT, IP forwarding, and full tunnel setup | WireGuard · Linux · iptables · VMware |
+| [🍯 Honeypot + SIEM (Wazuh + Cowrie)] | Deployed Cowrie SSH honeypot on Kali Purple, forwarded logs to Wazuh SIEM on AWS EC2, simulated SSH brute-force and monitored alerts | Wazuh · Cowrie · AWS EC2 · SIEM |
+| [🧅 Tor Middle Relay (Indian ISP) | Ran a Tor middle relay on Jio Fiber, diagnosed IPv4 vs IPv6 reachability, documented ISP-level port forwarding limitations | Tor · Linux · IPv6 · Networking |
+| [Cisco Pkt Tracer Projects] | Router on a stick , ACL, Trunking, VLAN segmentation
 ### AI × Security
 
 | Project | Description | Stack |
@@ -54,6 +54,19 @@ Status   : Building. Breaking. Learning.
 | [📡 Network Intrusion Detection](https://github.com/MadjawBadpaw/network-intrusion-detection-ai) | Random Forest trained on CICIDS2017 detecting DDoS and Port Scan attacks — desktop GUI, no browser needed | Python · scikit-learn · CustomTkinter |
 
 ---
+
+## Certifications & Training
+<table>
+<tr>
+<td width="50%">
+Completed
+✅ Google Cybersecurity Certificate
+✅ Cybrary SOC Analyst Certificate
+✅ HTB SOC Analyst Pathway
+✅ Holmes CTF — Participated
+</td>
+</tr>
+</table>
 
 ## Tech Stack
 

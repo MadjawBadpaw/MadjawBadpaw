@@ -63,7 +63,6 @@ Completed
 ✅ Google Cybersecurity Certificate
 ✅ Cybrary SOC Analyst Certificate
 ✅ HTB SOC Analyst Pathway
-✅ Holmes CTF — Participated
 </td>
 </tr>
 </table>
@@ -115,9 +114,9 @@ Completed
 
 ```
 🔭 Building AI-powered security tools
-📚 Learning — Penetration Testing · Threat Hunting · LLM fine-tuning
-🌐 Exploring — SIEM pipelines · Network forensics · AI agents
-🎯 Next — HackTheBox · Bug Bounty · CTF competitions
+📚 Penetration Testing · Threat Hunting · DFIR
+🌐 Networking  · NetSec ·AI agents
+🎯 HackTheBox · Bug Bounty · CTF competitions
 ```
 
 ---

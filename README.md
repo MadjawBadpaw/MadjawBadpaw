@@ -1,128 +1,223 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1421,50:38bdf8,100:0d1421&height=200&section=header&text=YugamThakur&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20%7C%20Networks&descAlignY=58&descSize=18&descColor=38bdf8" width="100%"/>
-
-</div>
+<!-- ============================================================
+     YUGAM THAKUR — GitHub Profile README
+     ============================================================ -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=600&height=80&lines=CS+Student+%40+UIT+HPU+Shimla+%7C+3rd+Year)](https://git.io/typing-svg)
+<!-- Animated SVG header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:e94560&height=200&section=header&text=Yugam%20Thakur&fontSize=52&fontColor=e2e8f0&fontAlignY=38&desc=Security%20Engineer%20%7C%20AI%2FML%20Researcher%20%7C%20Breaker%20of%20Things&descSize=16&descAlignY=60&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=MadjawBadpaw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080c14&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&ring_color=38bdf8"/>
+<div align="center">
 
-### whoami
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Network+Security+%7C+SOC+Operations;AI+%C3%97+Offensive+%2F+Defensive+Security;Home+Lab+Hacker+%E2%80%94+VMware+%2B+OPNsense+%2B+Wazuh;B.Tech+CS+%C2%B7+3rd+Year+%C2%B7+UIT+HPU+Shimla" alt="Typing SVG" />
+</a>
 
-```bash
-$ cat about.txt
+<br/><br/>
 
-Name     : Yugam Thakur
-Role     : CS Student · Security Researcher
-College  : UIT HPU Shimla (B.Tech 3rd Year)
-Focus    : Cybersecurity + AI/ML
-Location : Himachal Pradesh, India
-Status   : Building. Breaking. Learning.
+<!-- Quick badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yugam--thakur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yugam-thakur)
+[![Location](https://img.shields.io/badge/Himachal%20Pradesh-India-e94560?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/MadjawBadpaw)
+[![HTB](https://img.shields.io/badge/Hack%20The%20Box-SOC%20Pathway-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://github.com/MadjawBadpaw)
+
+</div>
+
+---
+
+## `whoami`
+
+```text
+┌──(yugam㉿home-lab)-[~/]
+└─$ cat about.txt
+
+  Role     : Security Engineer + AI/ML Researcher
+  Focus    : Network Security · SOC Operations · AI × Offensive/Defensive Security
+  Status   : B.Tech CS · 3rd Year · UIT HPU Shimla
 ```
 
-- 🔐 **Core interest** — Network Security, SOC, Threat Detection
-- 🐧 **Daily driver** — Linux (Kali, Parrot, Ubuntu)
-- 📡 **Currently building** — AI-powered security tools
-- 🎯 **Goal** — Security Engineer at the intersection of AI + Cyber
-
-<br clear="right"/>
-
 ---
 
-## Projects
+## `Projects/`
 
-### Security & Networking
+### 🛡️ Security & Networking
 
-| Project | Description | Stack |
-|---|---|---|
-| [🔒 WireGuard Secure VPN Lab] | Implemented secure remote access VPN with dual-interface Ubuntu gateway, NAT, IP forwarding, and full tunnel setup | WireGuard · Linux · iptables · VMware |
-| [🍯 Honeypot + SIEM (Wazuh + Cowrie)] | Deployed Cowrie SSH honeypot on Kali Purple, forwarded logs to Wazuh SIEM on AWS EC2, simulated SSH brute-force and monitored alerts | Wazuh · Cowrie · AWS EC2 · SIEM |
-| [🧅 Tor Middle Relay (Indian ISP) | Ran a Tor middle relay on Jio Fiber, diagnosed IPv4 vs IPv6 reachability, documented ISP-level port forwarding limitations | Tor · Linux · IPv6 · Networking |
-| [Cisco Pkt Tracer Projects] | Router on a stick , ACL, Trunking, VLAN segmentation
-### AI × Security
-
-| Project | Description | Stack |
-|---|---|---|
-| [🛡️ CVE Intelligence AI](https://github.com/MadjawBadpaw/cve-intelligence-ai) | Fine-tuned DistilBERT on 66K CVEs from NIST NVD — classifies severity (LOW/MEDIUM/HIGH/CRITICAL) with CWE detection and patch recommendations | Python · HuggingFace · FastAPI · PyTorch |
-| [📡 Network Intrusion Detection](https://github.com/MadjawBadpaw/network-intrusion-detection-ai) | Random Forest trained on CICIDS2017 detecting DDoS and Port Scan attacks — desktop GUI, no browser needed | Python · scikit-learn · CustomTkinter |
-
----
-
-## Certifications & Training
 <table>
 <tr>
 <td width="50%">
-Completed
-✅ Google Cybersecurity Certificate
-✅ Cybrary SOC Analyst Certificate
-✅ HTB SOC Analyst Pathway
+
+**[Full SOC Simulation](https://github.com/MadjawBadpaw/Full-SOC-Simulation)**
+
+Virtualized enterprise lab — OPNsense perimeter firewall, Wazuh SIEM, Suricata IDS, isolated WAN/LAN zones. Attack simulation from Kali Linux.
+
+`OPNsense` `Wazuh` `Suricata` `Kali` `VMware` `pf`
+
+> 🔨 *In Progress*
+
+</td>
+<td width="50%">
+
+**[Honeypot + SIEM on AWS](https://github.com/MadjawBadpaw/Honeypot-Simulation-with-Wazuh-Cowrie-on-AWS)**
+
+Cowrie SSH honeypot on Kali Purple, logs forwarded to Wazuh SIEM on AWS EC2. Simulated brute-force attacks, monitored live alerts.
+
+`Cowrie` `Wazuh` `AWS EC2` `SIEM`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[WireGuard VPN Gateway](https://github.com/MadjawBadpaw/Secure-Remote-Access-VPN-using-WireGuard)**
+
+Dual-interface Ubuntu gateway with WireGuard, NAT, and IP forwarding for secure remote access.
+
+`WireGuard` `iptables` `Linux` `VMware`
+
+</td>
+<td width="50%">
+
+**[Tor Middle Relay — Indian ISP](https://github.com/MadjawBadpaw/Tor-middle-relay-on-Indian-ISP-)**
+
+Ran a Tor middle relay on Jio Fiber. Diagnosed IPv4/IPv6 reachability, documented ISP-level port forwarding limitations.
+
+`Tor` `Linux` `IPv6` `Networking`
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+**[Phishing Simulation — GoPhish](https://github.com/MadjawBadpaw/Phishing-Simulation-GoPhish)**
+
+Simulated phishing campaign using GoPhish and MailHog in an isolated environment.
+
+`GoPhish` `MailHog` `HTML`
+
 </td>
 </tr>
 </table>
 
-## Tech Stack
+---
 
-**Security & Linux**
+### 🤖 AI × Security
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-3AADCD?style=flat)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-0d1421?style=flat&color=38bdf8)
-![Log Analysis](https://img.shields.io/badge/Log_Analysis-0d1421?style=flat&color=38bdf8)
+<table>
+<tr>
+<td width="50%">
 
-**Networking & Protocols**
+**[BGP Hijack Detector](https://github.com/MadjawBadpaw/bgp-detector)**
 
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0d1421?style=flat&color=38bdf8)
-![iptables](https://img.shields.io/badge/iptables-0d1421?style=flat&color=38bdf8)
-![VPN](https://img.shields.io/badge/VPN-0d1421?style=flat&color=38bdf8)
-![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat&logo=torproject&logoColor=white)
+Streams live BGP data from RIPE RIS. Detects potential AS prefix hijacks and MOAS (Multiple Origin AS) anomalies in real time.
 
-**Programming & AI**
+`Python` `RIPE RIS` `BGP` `Networking`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+</td>
+<td width="50%">
+
+**[KeyGuard — Keystroke Biometrics](https://github.com/MadjawBadpaw/KeyGaurd-Auth)**
+
+Behavioral auth using typing rhythm. Isolation Forest on dwell time, flight time, press/release intervals. Gmail SMTP alerts, lockout on repeated anomalies.
+
+`Python` `FastAPI` `scikit-learn` `pynput` `bcrypt`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[CVE Intelligence AI](https://github.com/MadjawBadpaw/cve-intelligence-ai)**
+
+Fine-tuned DistilBERT on 66K CVEs from NIST NVD. Classifies severity and detects CWE categories.
+
+`Python` `HuggingFace` `PyTorch` `FastAPI`
+
+</td>
+<td width="50%">
+
+**[Network Intrusion Detection](https://github.com/MadjawBadpaw/network-intrusion-detection-ai)**
+
+Random Forest on CICIDS2017 for DDoS and port scan detection. Desktop GUI, no browser required.
+
+`Python` `scikit-learn` `CustomTkinter`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Stats
+## `cat stack.txt`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadjawBadpaw&layout=compact&theme=tokyonight&hide_border=true&bg_color=080c14&title_color=38bdf8&text_color=e2e8f0&langs_count=6"/>
+**Languages & Frameworks**
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=MadjawBadpaw&theme=tokyonight&hide_border=true&background=080c14&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+**Infrastructure & Security**
+
+![Linux & Windows](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![IDS & IPS](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Virtual Machines](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![SIEM](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## Currently
+## `Certs`
 
-```
-🔭 Building AI-powered security tools
-📚 Penetration Testing · Threat Hunting · DFIR
-🌐 Networking  · NetSec ·AI agents
-🎯 HackTheBox · Bug Bounty · CTF competitions
-```
+| Certificate | Issuer |
+|---|---|
+| 🏅 Google Cybersecurity Certificate | Google / Coursera |
+| 🏅 SOC Analyst | Cybrary |
+| 🏅 SOC Analyst Pathway | Hack The Box |
+
+---
+
+## `./stats.sh`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MadjawBadpaw&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadjawBadpaw&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=6" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MadjawBadpaw&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e3a5f&ring=38bdf8&fire=e94560&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+
+<div align="center">
+
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yugam-thakur)
+[![GitHub](https://img.shields.io/badge/-Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadjawBadpaw)
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1421,50:38bdf8,100:0d1421&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,50:0f3460,100:0d1117&height=100&section=footer" width="100%"/>
+
+<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=MadjawBadpaw&color=38bdf8&style=flat-square&label=views"/></sub>
 
 </div>

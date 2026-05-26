@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Animated SVG header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:e94560&height=200&section=header&text=Yugam%20Thakur&fontSize=52&fontColor=e2e8f0&fontAlignY=38&desc=Security%20Engineer%20%7C%20AI%2FML%20Researcher%20%7C%20Breaker%20of%20Things&descSize=16&descAlignY=60&descColor=94a3b8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:e94560&height=200&section=header&text=Yugam%20Thakur&fontSize=52&fontColor=e2e8f0&fontAlignY=38&desc=Cybersecurity%7C%20AI%2FML%20&descSize=16&descAlignY=60&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
 </div>
 

@@ -31,19 +31,15 @@
 ![Location](https://img.shields.io/badge/Himachal%20Pradesh-India-e94560?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 ](https://github.com/MadjawBadpaw)
-[
 
-![HTB](https://img.shields.io/badge/Hack%20The%20Box-SOC%20Pathway-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-
-](https://github.com/MadjawBadpaw)
 
 </div>
 
 ---
 
 ## Intro
-```Student of BTech CSE at UIT HPU Shimla 7th sem
+Student of BTech CSE at UIT HPU Shimla 7th sem
 with interest in cybersecurity, network security and security operations.
 
-```
+
 

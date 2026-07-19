@@ -26,12 +26,6 @@
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-yugam--thakur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ](https://linkedin.com/in/yugam-thakur)
-[
-
-![Location](https://img.shields.io/badge/Himachal%20Pradesh-India-e94560?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-](https://github.com/MadjawBadpaw)
-
 
 </div>
 

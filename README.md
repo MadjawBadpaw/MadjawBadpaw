@@ -15,7 +15,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Cybersecurity+Network+Security+%7C+Cloud+Security+;B.Tech+CS+%C2%B7+7th+sem+%C2%B7+UIT+HPU+Shimla" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Network+Security+%7C+Cloud+Security+;B.Tech+CS+%C2%B7+7th+sem+%C2%B7+UIT+HPU+Shimla" alt="Typing SVG" />
 </a>
 
 <br/><br/>

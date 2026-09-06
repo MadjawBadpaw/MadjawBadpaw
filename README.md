@@ -21,7 +21,6 @@
 <br/><br/>
 
 <!-- Quick badges -->
-[
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-yugam--thakur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
